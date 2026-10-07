@@ -1,6 +1,6 @@
 public class welcome{
 
-public static void main(){
+public static void main(String args[]){
 
   system.out.println("yo world");
 
