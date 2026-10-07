@@ -1,1 +1,10 @@
-system.out.println("yo world");
+public class welcome{
+
+public static void main(){
+
+  system.out.println("yo world");
+
+
+
+}
+}
